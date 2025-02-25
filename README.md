@@ -16,7 +16,7 @@
 
 -- React v19.0.0 
 - React Router Dom v6.28.1
-- MUI v6.4.0
+-- MUI v6.4.0
 -- Vite v6.2.0
 - Jest v29.7.0
 - nodejs v20.0
