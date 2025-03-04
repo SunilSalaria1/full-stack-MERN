@@ -16,7 +16,7 @@
 
 -- React v19.0.0 
 - React Router Dom v6.28.1
--- MUI v6.4.0
+-- MUI v6.4.5
 -- Vite v6.2.0
 - Jest v29.7.0
 - nodejs v20.0
@@ -38,7 +38,7 @@ After follow the above steps the server will successfully start. To test the ser
 ## full-stack-MERN project URL references 
 - The purpose of this section is to add URL's of libraries or other things which are related to this project to keep things in track. In future if we need to check anything or change anything then we can easily take reference from here.
 
-- React :- https://react.dev/
+-- React :- https://react.dev/
 - React Router 7.2 :- https://reactrouter.com/tutorials/address-book
-- MUI :- https://mui.com/material-ui/getting-started/installation/ 
+-- MUI :- https://mui.com/material-ui/getting-started/installation/ 
 -- Use vite to install react with typescript :- https://vite.dev/guide/
