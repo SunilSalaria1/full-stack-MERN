@@ -15,7 +15,7 @@
 - We are using React + MUI to build this application. Rest all the library we will use as per requirements while building process will define below as well. 
 
 -- React v19.0.0 
-- React Router Dom v6.28.1
+-- React Router Dom v7.2.0
 -- MUI v6.4.5
 -- Vite v6.2.0
 - Jest v29.7.0
