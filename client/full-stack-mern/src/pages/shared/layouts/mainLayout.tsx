@@ -9,6 +9,6 @@ function MainLayout() {
             <Outlet />
         </>
     )
-}
+}   
 
 export default MainLayout;
