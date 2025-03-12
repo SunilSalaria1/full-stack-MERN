@@ -40,13 +40,9 @@ export const router = createBrowserRouter([
     element: <MainLayout />,
     errorElement: <ErrorPage />,
 
-    children: [
-      {
-        index: true, // ✅ Load this when visiting "/"
-        element: <Login />, // Default Page
-      },
-      {
-        path: "home",
+    children: [    
+      {       
+        path: "/home",
         element: <Home />,
       },
     ],
